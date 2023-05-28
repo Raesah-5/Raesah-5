@@ -5,7 +5,7 @@
     <i>
         I'm Raesah.<br>
         A passionate frontend developer from Saudi Arabia, I am passionate about learning all Back-End Technologies, Web 3, Linux, Virtualization, data analysis, and application development Currently currently learning Data Visualization, Image Processing, swift, Data Analysis,.<br>
-        📫 How to reach me **Raesah.saad@hotmail.com**<br>
+        📫 How to reach me Raesah.saad@hotmail.com<br>
     </i><br>
     <a href="[https://www.linkedin.com/in/wervlad](https://www.linkedin.com/in/raisah-alsubie/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
