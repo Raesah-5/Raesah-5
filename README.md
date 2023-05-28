@@ -4,17 +4,12 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Raesah.<br>
-        Currently currently learning **Data Visualization, Image Processing, swift, Data Analysis,**.<br>
+        A passionate frontend developer from Saudi Arabia, I am passionate about learning all Back-End Technologies, Web 3, Linux, Virtualization, data analysis, and application development Currently currently learning Data Visualization, Image Processing, swift, Data Analysis,.<br>
     </i><br>
     <a href="[https://www.linkedin.com/in/wervlad](https://www.linkedin.com/in/raisah-alsubie/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://stepik.org/users/108517510">
-        <img src="https://img.shields.io/badge/Stepik-blue?style=flat-square&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA2ADYANhLVLGJAAAACXBIWXMAAAsTAAALEwEAmpwYAAADNUlEQVRIx8VWPU/rSBS9NsRPyMZGfGQLhDWKiKVoBVIKChAEKamo+QOvfQXFSm5AiJJ2ixVe0RCFKpaslKZZUbwmWCBRGShoKB1LSAEl8WKTs1WsOB/w3ha7V5rCY8/xnTP3nDtEH4QgCHOqqj5IkgSe50FEICLwPA9JkqCq6oMgCHP0b4IxdphKpb73QMeNVCr1nTF2+FPgmUzGFEURn4H3hiiKyGQy5iisif6H5eXlL7Is/9FoNL62Wq14nud5KhaLtLu7SxsbGzQ1NUVPT08EgIiIwjCkt7e3XxcXF3+Zn5//6/n5+X0cLYYsy3FmHMeBiGAYBlzXRRRFiKIIruvi9PQUMzMziZ3IsgzGmPFTtNRqNbTbbQzG2dkZJEn6MboYY4eD4NlsFqZpIggCAEAURfB9H57nwbZtZLPZD88kPnhBEOb6q6VHi2ma6HQ6MXi9Xsfm5mb8TT6fh67r0HUdS0tLI6tLEIQ5UlX1YRQtvcy73S4cx0GhUAARgTGGarUKz/PQbDbRbDbheR5OTk6GfqKq6gMpipIQkGEYMedRFMFxHORyORARNE2DZVkYFe12G4ZhJASpKAqof6JUKsF13QQtvczT6TRs206A3tzc4P7+HmEYAgBc10WpVEokTP1b0nUdURQBAHzfjznXNA22bcfvAMCyLKytrWFrawu+7wMAWq0W9vb2EjTxn6l6ZWWFjo+PaWdnhyYmJuj9/Z0uLi7o4OCArq+vY7GNjXEUhWGIu7s7XF1dJWixbRvpdBpEhEKhgHq9Hu9sJEX9YuE4DuVyOa6gwbAsC5qmgYiQy+XgOE4MPvaQR5VppVJBo9HAy8sLXl9f4XkeqtUqGGNx5o7joNvtAgCCIECtVhtdpuOEtrq6iv39fRwdHWF7eztetL6+nqCl0+nANM3E2oTQxlnFoG3Ytg3P8+D7fgweBAFM0xyyjYRVfGZ209PTqFQqQ+cxjpaPesOQXRMRZmdncX5+PmTX5XJ5iJZRds0NNpwoin73ff9bf8PhOI6KxSLl83kiIrq9vaXLy8uEBkRRpIWFhT8nJyd/e3x8/Ps/a5n/T9MfvLYoijJ0bVEU5YeuLf8A/blSgAQ62zgAAAAASUVORK5CYII=" alt="Stepik">
-    </a>
-    <a href="https://leetcode.com/wervlad">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
+     📫 How to reach me **Raesah.saad@hotmail.com**
 </p>
 
 ### Languages
@@ -39,28 +34,8 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Raesah-5)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Raesah-5)
 
-<details>
-<p align="center">
-  <a href="https://github.com/Raesah-5">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
-  </a>
-  <a href="https://github.com/Raesah-5">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Raesah-5">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
-  </a>
-  <a href="https://github.com/Raesah-5">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
 
-<p align="center">
-  <a href="https://github.com/Raesah-5">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
-  </a>
-</p>
+
 <!--
 
 - 🔭 I’m currently working on ...
@@ -72,19 +47,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Raesah</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia, I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, and application development .</h3>
-
-- 🌱 I’m currently learning **Data Visualization, Image Processing, swift, Data Analysis,**
-
-- 💬 Ask me about **HTML, CSS, Python, SQL, Javascript**
-
-- 📫 How to reach me **Raesah.saad@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raisah-alsubie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raisah-alsubie" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
