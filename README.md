@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raesah</h1>
-<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate frontend developer from Saudi Arabia, I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, and application development .</h3>
 
-- 🌱 I’m currently learning **Data Visualization, Image Processing**
+- 🌱 I’m currently learning **Data Visualization, Image Processing, swift, Data Analysis,**
 
-- 💬 Ask me about **HTML, CSS, Python,**
+- 💬 Ask me about **HTML, CSS, Python, SQL, Javascript**
 
 - 📫 How to reach me **Raesah.saad@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/raisah-alsubie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raisah-alsubie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
