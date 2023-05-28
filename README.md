@@ -8,8 +8,9 @@
     </i><br>
     <a href="[https://www.linkedin.com/in/wervlad](https://www.linkedin.com/in/raisah-alsubie/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-     📫 How to reach me **Raesah.saad@hotmail.com**
+    </a><br>
+   
+     <p>📫 How to reach me: Raesah.saad@hotmail.com</p>
 </p>
 
 ### Languages
